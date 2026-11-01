@@ -10,7 +10,6 @@ after that download bat_To_Exe_Converter_x64.exe app on your computer..
 
 This link of bat_To_Exe_Converter_x64.exe download from here,
 -------------------------------------------------------------------------
-👇
 https://bat-to-exe-converter-x64.en.softonic.com/
 ----------------------------------------------------------------------------
 After that just convert this exe file into bat file and send it to your friends for Prank..
